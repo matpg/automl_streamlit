@@ -1,0 +1,4 @@
+matplotlib
+TPOT
+scikit-learn
+stqdm
